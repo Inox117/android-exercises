@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Library</string>
     <string name="action_settings">Settings</string>
+    <string name="bonjour">Salut les Gens</string>
+    <string name="bonjour2">Salut les Gens v2</string>
 </resources>
